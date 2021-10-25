@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/syedsharukhhussainy/static/css/main.368a5f66.chunk.css",
+    "main.js": "/syedsharukhhussainy/static/js/main.e5b174e3.chunk.js",
+    "main.js.map": "/syedsharukhhussainy/static/js/main.e5b174e3.chunk.js.map",
+    "runtime-main.js": "/syedsharukhhussainy/static/js/runtime-main.6fe102b2.js",
+    "runtime-main.js.map": "/syedsharukhhussainy/static/js/runtime-main.6fe102b2.js.map",
+    "static/js/2.9b2d06f9.chunk.js": "/syedsharukhhussainy/static/js/2.9b2d06f9.chunk.js",
+    "static/js/2.9b2d06f9.chunk.js.map": "/syedsharukhhussainy/static/js/2.9b2d06f9.chunk.js.map",
+    "index.html": "/syedsharukhhussainy/index.html",
+    "static/css/main.368a5f66.chunk.css.map": "/syedsharukhhussainy/static/css/main.368a5f66.chunk.css.map",
+    "static/js/2.9b2d06f9.chunk.js.LICENSE.txt": "/syedsharukhhussainy/static/js/2.9b2d06f9.chunk.js.LICENSE.txt",
+    "static/media/skills-styles.css": "/syedsharukhhussainy/static/media/Futura.e07bb855.ttf",
+    "static/media/main-styles.css": "/syedsharukhhussainy/static/media/bg-image.6fa56cb7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fe102b2.js",
+    "static/js/2.9b2d06f9.chunk.js",
+    "static/css/main.368a5f66.chunk.css",
+    "static/js/main.e5b174e3.chunk.js"
+  ]
+}
