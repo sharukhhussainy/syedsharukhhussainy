@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@font-face {
+    font-family: 'Futura';
+    src: local('Futura'), url('../../fonts/Futura.ttf');
+}
+
+.skills-container {
+    background-color: #5569dc10;
+    padding-left: 20rem;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    padding-right: 35rem;
+}
+
+.skills-heading h1 {
+    font-family: 'Playfair Display', serif;
+    color: #5569dc;
+    font-style: italic;
+    font-size: 2.2rem;
+    font-weight: normal;
+}
+
+.skills-heading h3 {
+    margin-top: 0.5rem;
+    font-family: 'Futura';
+    color:#5569dc;
+    font-weight: lighter;
+    letter-spacing: 0.2rem;
+    font-size: 1.2rem;
+}
+
+
+.single-skills, .languages {
+    display: flex;
+    font-family: 'Futura';
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.single-skills h3, .languages h3 {
+    font-weight: lighter;
+}
+.divider {
+    width: 100px;
+    height: 2px;
+    background-color: #5569dc44;
+    margin-top: 2rem;
+}
+.percentage {
+    display: flex;
+    width: 70%;
+    align-items: center;
+}
+.active-java {
+    width: 100%;
+    background-color: #5569dc;
+    height: 5px;
+}
+.not-active-java {
+    width: 100%;
+    background-color: #5569dc67;
+    height: 2.5px;
+}
+
+.active-html {
+    width: 400%;
+    background-color: #5569dc;
+    height: 5px;
+}
+.not-active-html {
+    width: 100%;
+    background-color: #5569dc67;
+    height: 2.5px;
+}
+
+.active-js {
+    width:200%;
+    background-color: #5569dc;
+    height: 5px;
+}
+.not-active-js {
+    width: 100%;
+    background-color: #5569dc67;
+    height: 2.5px;
+}
+.active-react {
+    width: 200%;
+    background-color: #5569dc;
+    height: 5px;
+}
+.not-active-react {
+    width: 100%;
+    background-color: #5569dc67;
+    height: 2.5px;
+}
